@@ -1,6 +1,6 @@
 # LiveView Playground
 
-Experimental [Live view](https://github.com/phoenixframework/phoenix_live_view) projects for prototyping and exploring desktop application concepts.
+Experimental [Live view](https://github.com/phoenixframework/phoenix_live_view) projects for prototyping and exploring.
 
 - Start: https://hexdocs.pm/phoenix/up_and_running.html
   
