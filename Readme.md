@@ -1,3 +1,3 @@
-# Tauri Playground
+# LiveView Playground
 
-Experimental [Tauri](https://tauri.app/start/) projects for prototyping and exploring desktop application concepts.
+Experimental [Live view](https://github.com/phoenixframework/phoenix_live_view) projects for prototyping and exploring desktop application concepts.
